@@ -29,7 +29,7 @@ In general, for any list of n, binary search will take log^2 n steps to run in t
 
 */
 
-function binary_search(arr, item) {
+function binarySearch(arr, item) {
 	let low = 0;
 	let high = arr.length - 1;
 
@@ -48,8 +48,8 @@ function binary_search(arr, item) {
 }
 
 const my_list = [1, 3, 5, 7, 9];
-console.log(binary_search(my_list, 3));
-console.log(binary_search(my_list, -1));
+console.log(binarySearch(my_list, 3));
+console.log(binarySearch(my_list, -1));
 
 // Exercises
 // 1.1 Suppose you have a sorted list of 128 names, and you're searching through it using binary search. What's the maximu number of steps it would take? 128, 64, 32, 16, 8, 4, 2, 1. 8 steps.
