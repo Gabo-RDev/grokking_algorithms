@@ -3,8 +3,7 @@
 ## Descripción
 
 Este repositorio contiene notas y ejercicios del libro **Grokking Algorithms:
-Second Edition**. Este libro es una introducción amigable y visual a los
-algoritmos, diseñada para ayudar a los principiantes a entender conceptos
+Second Edition**. Este libro es una introducción amigable, diseñada para ayudar a los principiantes a entender conceptos
 complejos de manera sencilla.
 
 ## Contenido
@@ -31,7 +30,7 @@ complejos de manera sencilla.
 ## Requisitos
 
 - Conocimientos básicos de programación.
-- Python instalado en tu sistema.
+- Saber un lenguaje de programación, aunque lo hice con JS.
 
 ## Contribuciones
 
